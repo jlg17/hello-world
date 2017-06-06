@@ -2,4 +2,4 @@
 just for learning
 
 
-I am learnling about github .
+I am learning about github .
